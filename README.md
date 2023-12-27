@@ -1,4 +1,4 @@
-**Tin Dog**
+# Tin Dog
 
 Live Preview: https://bs-tindog.netlify.app
 
